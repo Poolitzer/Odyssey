@@ -12,7 +12,7 @@
 
 <p align="center">
 	<strong>
-		<a href="#how-to-use">Usage</a>
+		<a href="#-use-cases">Usage</a>
 		•
 		<a href="https://github.com/IlluminatiFish/Odyssey/releases">Download</a>
 	</strong>
